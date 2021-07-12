@@ -170,3 +170,4 @@ colors = ['red','yellow','green','white','black','blue','purple']
 
 for color in colors:
   print('{} items of color {} was sold today'.format(color_count(color),color))
+#
